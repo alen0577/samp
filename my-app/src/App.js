@@ -1,5 +1,10 @@
 function App() {
-  return <h1>Hello from feature-hello branch!</h1>;
+  return (
+    <div>
+      <h1>Hello Git</h1>
+      <button>Click Me</button>
+    </div>
+  );
 }
 
 export default App;
